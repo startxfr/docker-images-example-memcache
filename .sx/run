@@ -12,5 +12,4 @@ echoVerbose ""
 echoVerbose "+====================================================="
 echoVerbose "Sample memcache application runtime"
 echoVerbose "+====================================================="
-
-exec /bin/sx-memcache run
+startMemcacheService
